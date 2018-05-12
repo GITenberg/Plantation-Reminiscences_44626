@@ -1,0 +1,27 @@
+_repo: Plantation-Reminiscences_44626
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44626-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Burwell, Letitia M.
+    alias: Thacker, Page
+    gutenberg_agent_id: '41314'
+    url: http://www.gutenberg.org/2009/agents/41314
+description: ''
+gutenberg_issued: '2014-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44626'
+  lccn: '01021407'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Virginia -- Social life and customs'
+- !lcc 'F206'
+- !lcsh 'Plantation life'
+title: Plantation Reminiscences
+url: http://www.gutenberg.org/ebooks/44626
