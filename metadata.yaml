@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '41314'
     url: http://www.gutenberg.org/2009/agents/41314
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44626#Plantation-Reminiscences
 gutenberg_issued: '2014-01-08'
 gutenberg_type: Text
 identifiers:
